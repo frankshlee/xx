@@ -2,6 +2,7 @@ hello world.
 hello
 
 tsions
+read and push only
 owner, read, create reference
 u
 ts
