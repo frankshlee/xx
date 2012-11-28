@@ -1,6 +1,7 @@
 hello world.
 hello
 
+edit .git/config
 tsions
 read and push only
 owner, read, create reference
