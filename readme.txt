@@ -1,6 +1,8 @@
 hello world.
 hello
 
+jewel was here
+
 edit .git/config
 tsions
 read and push only
