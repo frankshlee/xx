@@ -1,6 +1,7 @@
 hello world.
 hello
 
+frank was here
 jewel was here
 
 edit .git/config
